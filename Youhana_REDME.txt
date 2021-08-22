@@ -1,0 +1,10 @@
+Quartus 
+1. Open the QAR file to look VHDL files
+2. Run compilation
+
+ModelSim
+1. Add all files from quartus into a new project
+2. Compile all
+3. Simulate to verify design
+4. Add all input and output onto wave
+4. Run the simulation with test bench
